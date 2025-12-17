@@ -2,7 +2,6 @@
   "name": "plexstream",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "dev": "vite test",
     "build": "vite build"
@@ -13,6 +12,7 @@
   "packageManager": "npm@10.23.0",
   "dependencies": {
     "react": "^19.2.3",
+    "react-dom": "^19.2.3",
     "react-router-dom": "^7.10.1",
     "vite": "^7.3.0"
   }
