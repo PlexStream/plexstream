@@ -1,0 +1,7 @@
+theme:
+  name: mkdocs
+  site_name: Plexstream Docs
+  repo_url: https://github.com/PlexStream/plexstream/
+  site_description: Official Documentation From PlexStream
+  site_author: snoopythe3
+  docs_dir: docs
